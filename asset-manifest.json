@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15cff427.chunk.css",
+    "main.js": "/static/js/main.20c27082.chunk.js",
+    "main.js.map": "/static/js/main.20c27082.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d2a3ab3b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d2a3ab3b.js.map",
+    "static/js/2.8850ec42.chunk.js": "/static/js/2.8850ec42.chunk.js",
+    "static/js/2.8850ec42.chunk.js.map": "/static/js/2.8850ec42.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.15cff427.chunk.css.map": "/static/css/main.15cff427.chunk.css.map",
+    "static/js/2.8850ec42.chunk.js.LICENSE.txt": "/static/js/2.8850ec42.chunk.js.LICENSE.txt",
+    "static/media/1637557743523.9d4a7cc5.png": "/static/media/1637557743523.9d4a7cc5.png",
+    "static/media/WhatsApp Image 2022-04-04 at 8.39.26 PM.e2986902.jpeg": "/static/media/WhatsApp Image 2022-04-04 at 8.39.26 PM.e2986902.jpeg",
+    "static/media/company_5d7c04ad08a25a53fd4d5987.50cd244c.png": "/static/media/company_5d7c04ad08a25a53fd4d5987.50cd244c.png",
+    "static/media/crescent-moon.3bea3d39.png": "/static/media/crescent-moon.3bea3d39.png",
+    "static/media/screencapture-localhost-3000-2022-03-29-18_27_14.e86b6a1d.png": "/static/media/screencapture-localhost-3000-2022-03-29-18_27_14.e86b6a1d.png",
+    "static/media/screencapture-localhost-3000-2022-04-01-12_23_35.fa3bb261.png": "/static/media/screencapture-localhost-3000-2022-04-01-12_23_35.fa3bb261.png",
+    "static/media/screencapture-localhost-3000-login-2022-04-01-12_36_45.53a1cb7c.png": "/static/media/screencapture-localhost-3000-login-2022-04-01-12_36_45.53a1cb7c.png",
+    "static/media/screencapture-localhost-3000-news-2022-04-01-12_36_00.67e46403.png": "/static/media/screencapture-localhost-3000-news-2022-04-01-12_36_00.67e46403.png",
+    "static/media/screencapture-localhost-3000-register-2022-04-01-12_25_12.df36cc07.png": "/static/media/screencapture-localhost-3000-register-2022-04-01-12_25_12.df36cc07.png",
+    "static/media/screencapture-localhost-3000-socialCalculator-2022-04-01-12_27_31.b9461834.png": "/static/media/screencapture-localhost-3000-socialCalculator-2022-04-01-12_27_31.b9461834.png",
+    "static/media/sun.d07c9ece.png": "/static/media/sun.d07c9ece.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2a3ab3b.js",
+    "static/js/2.8850ec42.chunk.js",
+    "static/css/main.15cff427.chunk.css",
+    "static/js/main.20c27082.chunk.js"
+  ]
+}
